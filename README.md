@@ -1,4 +1,4 @@
-# Chef_Claude 🍳
+# Chef_Claude 
 This is my first react app which takes ingredients you have and generate recipes using Hugging Face AI.
 ## How to run?
 ###  Clone this repository
@@ -42,9 +42,9 @@ npm run dev
 ```
 The terminal will show a local URL. Open that URL in your browser.
 
-That's it! 🎉
+That's it! 
 
-Add the ingredients you have, click Get a recipe, and let the AI cook something for you. 👨‍🍳
+Add the ingredients you have, click Get a recipe, and let the AI cook something for you. 
 
 ## Built With
 - React
